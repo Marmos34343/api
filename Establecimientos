@@ -1,0 +1,552 @@
+{
+  "Base": [
+    {
+      "ID_Organizacion": 100,
+      "Nombre_Organizacion": "Hospital Dr. Ernesto Torres Galdames (Iquique)"
+    },
+    {
+      "ID_Organizacion": 112,
+      "Nombre_Organizacion": "Hospital de San Camilo (San Felipe)"
+    },
+    {
+      "ID_Organizacion": 113,
+      "Nombre_Organizacion": "Hospital Carlos Van Buren (Valparaíso)"
+    },
+    {
+      "ID_Organizacion": 116,
+      "Nombre_Organizacion": "Hospital Dr. Gustavo Fricke (Viña del Mar)"
+    },
+    {
+      "ID_Organizacion": 158,
+      "Nombre_Organizacion": "Hospital Clínico de Niños Dr. Roberto del Río (Santiago, Independencia)"
+    },
+    {
+      "ID_Organizacion": 154,
+      "Nombre_Organizacion": "Hospital Clínico San Borja-Arriarán (Santiago, Santiago)"
+    },
+    {
+      "ID_Organizacion": 173,
+      "Nombre_Organizacion": "Hospital Dr. Exequiel González Cortés (Santiago, San Miguel)"
+    },
+    {
+      "ID_Organizacion": 179,
+      "Nombre_Organizacion": "Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)"
+    },
+    {
+      "ID_Organizacion": 120,
+      "Nombre_Organizacion": "Hospital Regional de Rancagua"
+    },
+    {
+      "ID_Organizacion": 134,
+      "Nombre_Organizacion": "Hospital Clínico Herminda Martín (Chillan)"
+    },
+    {
+      "ID_Organizacion": 131,
+      "Nombre_Organizacion": "Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción)"
+    },
+    {
+      "ID_Organizacion": 136,
+      "Nombre_Organizacion": "Hospital Las Higueras (Talcahuano)"
+    },
+    {
+      "ID_Organizacion": 130,
+      "Nombre_Organizacion": "Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles)"
+    },
+    {
+      "ID_Organizacion": 180,
+      "Nombre_Organizacion": "Hospital Clínico Regional (Valdivia)"
+    },
+    {
+      "ID_Organizacion": 144,
+      "Nombre_Organizacion": "Hospital Base San José de Osorno"
+    },
+    {
+      "ID_Organizacion": 145,
+      "Nombre_Organizacion": "Hospital Regional (Coyhaique)"
+    },
+    {
+      "ID_Organizacion": 146,
+      "Nombre_Organizacion": "Hospital Dr. Lautaro Navarro Avaria (Punta Arenas)"
+    },
+    {
+      "ID_Organizacion": 686,
+      "Nombre_Organizacion": "Instituto de Nutrición y Tecnología de los Alimentos"
+    },
+    {
+      "ID_Organizacion": 586,
+      "Nombre_Organizacion": "Clínica Santa María"
+    },
+    {
+      "ID_Organizacion": 201,
+      "Nombre_Organizacion": "Hospital Clínico Universidad Católica"
+    },
+    {
+      "ID_Organizacion": 577,
+      "Nombre_Organizacion": "Clínica Las Condes"
+    },
+    {
+      "ID_Organizacion": 222,
+      "Nombre_Organizacion": "Clínica San Carlos de Apoquindo"
+    },
+    {
+      "ID_Organizacion": 572,
+      "Nombre_Organizacion": "Hospital Clínico Universidad de Chile"
+    },
+    {
+      "ID_Organizacion": 191,
+      "Nombre_Organizacion": "Hospital Clínico Fusat  Rancagua"
+    },
+    {
+      "ID_Organizacion": 403,
+      "Nombre_Organizacion": "Clínica Andes Salud Concepción"
+    },
+    {
+      "ID_Organizacion": 141,
+      "Nombre_Organizacion": "Hospital Dr. Hernán Henríquez Aravena (Temuco)"
+    },
+    {
+      "ID_Organizacion": 143,
+      "Nombre_Organizacion": "Hospital de Puerto Montt"
+    },
+    {
+      "ID_Organizacion": 103,
+      "Nombre_Organizacion": "Hospital Dr. Leonardo Guzmán (Antofagasta)"
+    },
+    {
+      "ID_Organizacion": 161,
+      "Nombre_Organizacion": "Hospital San Juan de Dios (Santiago, Santiago)"
+    },
+    {
+      "ID_Organizacion": 104,
+      "Nombre_Organizacion": "Hospital Dr. Carlos Cisternas (Calama)"
+    },
+    {
+      "ID_Organizacion": 183,
+      "Nombre_Organizacion": "Hospital del Cobre Salvador Allende"
+    },
+    {
+      "ID_Organizacion": 181,
+      "Nombre_Organizacion": "Hospital Dr. Juan Noé Crevanni (Arica)"
+    },
+    {
+      "ID_Organizacion": 873,
+      "Nombre_Organizacion": "Centro de Salud Familiar Manuel Lucero. Olmué"
+    },
+    {
+      "ID_Organizacion": 117,
+      "Nombre_Organizacion": "Hospital San Martín (Quillota)"
+    },
+    {
+      "ID_Organizacion": 871,
+      "Nombre_Organizacion": "Hospital San Agustín (La Ligua)"
+    },
+    {
+      "ID_Organizacion": 157,
+      "Nombre_Organizacion": "Complejo Hospitalario San José (Santiago, Independencia)"
+    },
+    {
+      "ID_Organizacion": 167,
+      "Nombre_Organizacion": "Hospital Del Salvador (Santiago, Providencia)"
+    },
+    {
+      "ID_Organizacion": 121,
+      "Nombre_Organizacion": "Hospital San Juan de Dios (San Fernando)"
+    },
+    {
+      "ID_Organizacion": 126,
+      "Nombre_Organizacion": "Hospital Dr. César Garavagno Burotto (Talca)"
+    },
+    {
+      "ID_Organizacion": 869,
+      "Nombre_Organizacion": "Hospital San Vicente (Arauco)"
+    },
+    {
+      "ID_Organizacion": 139,
+      "Nombre_Organizacion": "Hospital Dr. Mauricio Heyermann (Angol)"
+    },
+    {
+      "ID_Organizacion": 1581,
+      "Nombre_Organizacion": "Hospital San Vicente de Arauco"
+    },
+    {
+      "ID_Organizacion": 872,
+      "Nombre_Organizacion": "Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar)"
+    },
+    {
+      "ID_Organizacion": 107,
+      "Nombre_Organizacion": "Hospital San Pablo (Coquimbo)"
+    },
+    {
+      "ID_Organizacion": 854,
+      "Nombre_Organizacion": "Hospital FACH"
+    },
+    {
+      "ID_Organizacion": 945,
+      "Nombre_Organizacion": "Hospital de Nueva Imperial"
+    },
+    {
+      "ID_Organizacion": 231,
+      "Nombre_Organizacion": "Clínica Alemana"
+    },
+    {
+      "ID_Organizacion": 172,
+      "Nombre_Organizacion": "Hospital Barros Luco Trudeau (Santiago, San Miguel)"
+    },
+    {
+      "ID_Organizacion": 168,
+      "Nombre_Organizacion": "Hospital de Niños Dr. Luis Calvo Mackenna (Santiago, Providencia)"
+    },
+    {
+      "ID_Organizacion": 105,
+      "Nombre_Organizacion": "Hospital San José del Carmen (Copiapó)"
+    },
+    {
+      "ID_Organizacion": 142,
+      "Nombre_Organizacion": "Hospital de Castro"
+    },
+    {
+      "ID_Organizacion": 762,
+      "Nombre_Organizacion": "Hospital de Ancud"
+    },
+    {
+      "ID_Organizacion": 163,
+      "Nombre_Organizacion": "Hospital Dr. Félix Bulnes Cerda (Santiago, Quinta Normal)"
+    },
+    {
+      "ID_Organizacion": 169,
+      "Nombre_Organizacion": "Instituto Nacional de Enfermedades Respiratorias y Cirugía Torácica"
+    },
+    {
+      "ID_Organizacion": 128,
+      "Nombre_Organizacion": "Hospital Presidente Carlos Ibáñez del Campo (Linares)"
+    },
+    {
+      "ID_Organizacion": 229,
+      "Nombre_Organizacion": "Clínica Las Lilas"
+    },
+    {
+      "ID_Organizacion": 206,
+      "Nombre_Organizacion": "Hospital Dipreca Teniente Hernán Merino"
+    },
+    {
+      "ID_Organizacion": 188,
+      "Nombre_Organizacion": "Hospital Naval Almirante Neff"
+    },
+    {
+      "ID_Organizacion": 205,
+      "Nombre_Organizacion": "Hospital Militar de Santiago"
+    },
+    {
+      "ID_Organizacion": 592,
+      "Nombre_Organizacion": "Clínica Dávila"
+    },
+    {
+      "ID_Organizacion": 106,
+      "Nombre_Organizacion": "Hospital San Juan de Dios (La Serena)"
+    },
+    {
+      "ID_Organizacion": 111,
+      "Nombre_Organizacion": "Hospital San Juan de Dios (Los Andes)"
+    },
+    {
+      "ID_Organizacion": 178,
+      "Nombre_Organizacion": "Hospital Padre Alberto Hurtado (San Ramón)"
+    },
+    {
+      "ID_Organizacion": 176,
+      "Nombre_Organizacion": "Hospital Clínico Metropolitano La Florida Dra. Eloisa Díaz Inzunza"
+    },
+    {
+      "ID_Organizacion": 140,
+      "Nombre_Organizacion": "Hospital San José (Victoria)"
+    },
+    {
+      "ID_Organizacion": 858,
+      "Nombre_Organizacion": "Clínica RedSalud Providencia (ex Avansalud)"
+    },
+    {
+      "ID_Organizacion": 674,
+      "Nombre_Organizacion": "Clínica Andes Salud Puerto Montt"
+    },
+    {
+      "ID_Organizacion": 207,
+      "Nombre_Organizacion": "Hospital Carabineros"
+    },
+    {
+      "ID_Organizacion": 164,
+      "Nombre_Organizacion": "Hospital San José (Melipilla)"
+    },
+    {
+      "ID_Organizacion": 97,
+      "Nombre_Organizacion": "Prueba LRS"
+    },
+    {
+      "ID_Organizacion": 339,
+      "Nombre_Organizacion": "Clínica Ciudad del Mar"
+    },
+    {
+      "ID_Organizacion": 571,
+      "Nombre_Organizacion": "Clínica RedSalud Santiago (ex Clínica Bicentenario)"
+    },
+    {
+      "ID_Organizacion": 1118,
+      "Nombre_Organizacion": "Hospital Dr. Abraham Godoy (Lautaro)"
+    },
+    {
+      "ID_Organizacion": 442,
+      "Nombre_Organizacion": "Clínica Alemana de Osorno"
+    },
+    {
+      "ID_Organizacion": 855,
+      "Nombre_Organizacion": "Clínica RedSalud Vitacura (ex Clínica Tabancura)"
+    },
+    {
+      "ID_Organizacion": 276,
+      "Nombre_Organizacion": "Clínica Antofagasta (BUPA)"
+    },
+    {
+      "ID_Organizacion": 826,
+      "Nombre_Organizacion": "Clínica Universidad de los Andes"
+    },
+    {
+      "ID_Organizacion": 108,
+      "Nombre_Organizacion": "Hospital Dr. Antonio Tirado Lanas (Ovalle)"
+    },
+    {
+      "ID_Organizacion": 853,
+      "Nombre_Organizacion": "Clínica Vespucio"
+    },
+    {
+      "ID_Organizacion": 1062,
+      "Nombre_Organizacion": "Clinica Isamedica"
+    },
+    {
+      "ID_Organizacion": 4346,
+      "Nombre_Organizacion": "Hospital Dr. Augusto Essmann de Puerto Natales"
+    },
+    {
+      "ID_Organizacion": 1142,
+      "Nombre_Organizacion": "Clinica MEDS"
+    },
+    {
+      "ID_Organizacion": 159,
+      "Nombre_Organizacion": "Instituto Nacional del Cáncer Dr. Caupolicán Pardo Correa (Santiago, Recoleta)"
+    },
+    {
+      "ID_Organizacion": 1010,
+      "Nombre_Organizacion": "Clínica Puerto Montt"
+    },
+    {
+      "ID_Organizacion": 165,
+      "Nombre_Organizacion": "Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)"
+    },
+    {
+      "ID_Organizacion": 844,
+      "Nombre_Organizacion": "Oncovida la Serena"
+    },
+    {
+      "ID_Organizacion": 337,
+      "Nombre_Organizacion": "Clinica Reñaca"
+    },
+    {
+      "ID_Organizacion": 189,
+      "Nombre_Organizacion": "Hospital Clínico Viña del Mar"
+    },
+    {
+      "ID_Organizacion": 587,
+      "Nombre_Organizacion": "Clínica Oncológica Arturo López Pérez"
+    },
+    {
+      "ID_Organizacion": 862,
+      "Nombre_Organizacion": "Oncovida"
+    },
+    {
+      "ID_Organizacion": 874,
+      "Nombre_Organizacion": "Grupo Chileno Oncologia Medica"
+    },
+    {
+      "ID_Organizacion": 101,
+      "Nombre_Organizacion": "Centro Oncológico del Norte (Antofagasta)"
+    },
+    {
+      "ID_Organizacion": 397,
+      "Nombre_Organizacion": "Clínica de la Mujer Sanatorio Alemán"
+    },
+    {
+      "ID_Organizacion": 333,
+      "Nombre_Organizacion": "Clínica Valparaíso"
+    },
+    {
+      "ID_Organizacion": 614,
+      "Nombre_Organizacion": "Clínica Alemana Valdivia"
+    },
+    {
+      "ID_Organizacion": 1202,
+      "Nombre_Organizacion": "Clinica BUPA Santiago"
+    },
+    {
+      "ID_Organizacion": 402,
+      "Nombre_Organizacion": "Clínica Bio Bio"
+    },
+    {
+      "ID_Organizacion": 156,
+      "Nombre_Organizacion": "Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada"
+    },
+    {
+      "ID_Organizacion": 174,
+      "Nombre_Organizacion": "Hospital El Pino (Santiago, San Bernardo)"
+    },
+    {
+      "ID_Organizacion": 127,
+      "Nombre_Organizacion": "Hospital San Juan de Dios (Curico)"
+    },
+    {
+      "ID_Organizacion": 856,
+      "Nombre_Organizacion": "Clínica Indisa"
+    },
+    {
+      "ID_Organizacion": 4343,
+      "Nombre_Organizacion": "Hospital Bi-Provincial Quillota Petorca"
+    },
+    {
+      "ID_Organizacion": 4347,
+      "Nombre_Organizacion": "Hospital Provincial Dr. Rafael Avaria Valenzuela de Curanilahue"
+    },
+    {
+      "ID_Organizacion": 247,
+      "Nombre_Organizacion": "Clinica de Puerto Varas"
+    },
+    {
+      "ID_Organizacion": 114,
+      "Nombre_Organizacion": "Hospital Dr. Eduardo Pereira Ramírez (Valparaíso)"
+    },
+    {
+      "ID_Organizacion": 920,
+      "Nombre_Organizacion": "Hospital Adriana Cousiño (Quintero)"
+    },
+    {
+      "ID_Organizacion": 919,
+      "Nombre_Organizacion": "Hospital de Petorca"
+    },
+    {
+      "ID_Organizacion": 137,
+      "Nombre_Organizacion": "Hospital de Tomé"
+    },
+    {
+      "ID_Organizacion": 2943,
+      "Nombre_Organizacion": "Hospital Penco - Lirquén"
+    },
+    {
+      "ID_Organizacion": 1343,
+      "Nombre_Organizacion": "Hospital Familiar y Comunitario Vilcún"
+    },
+    {
+      "ID_Organizacion": 1399,
+      "Nombre_Organizacion": "Hospital de Pitrufquén"
+    },
+    {
+      "ID_Organizacion": 1400,
+      "Nombre_Organizacion": "Hospital Dr. Arturo Hillerns Larrañaga (Puerto Saavedra)"
+    },
+    {
+      "ID_Organizacion": 1401,
+      "Nombre_Organizacion": "Centro de Salud Familiar Algarrobo"
+    },
+    {
+      "ID_Organizacion": 1410,
+      "Nombre_Organizacion": "CESFAM Pucón"
+    },
+    {
+      "ID_Organizacion": 2152,
+      "Nombre_Organizacion": "Centro de Salud Familiar Conun Huenu"
+    },
+    {
+      "ID_Organizacion": 2153,
+      "Nombre_Organizacion": "Centro de Salud Familiar Labranza"
+    },
+    {
+      "ID_Organizacion": 2154,
+      "Nombre_Organizacion": "Hospital de Gorbea"
+    },
+    {
+      "ID_Organizacion": 2155,
+      "Nombre_Organizacion": "Hospital de Galvarino"
+    },
+    {
+      "ID_Organizacion": 2156,
+      "Nombre_Organizacion": "Hospital de Carahue"
+    },
+    {
+      "ID_Organizacion": 1249,
+      "Nombre_Organizacion": "Hospital de Villarrica"
+    },
+    {
+      "ID_Organizacion": 3300,
+      "Nombre_Organizacion": "CESFAM DR. ANIBAL ARIZTIA LAS CONDES"
+    },
+    {
+      "ID_Organizacion": 4321,
+      "Nombre_Organizacion": "CESFAM Arrau Mendez"
+    },
+    {
+      "ID_Organizacion": 4341,
+      "Nombre_Organizacion": "CESFAM Centenario Los Andes"
+    },
+    {
+      "ID_Organizacion": 4342,
+      "Nombre_Organizacion": "CESFAM Lirquén"
+    },
+    {
+      "ID_Organizacion": 150,
+      "Nombre_Organizacion": "Centro de Referencia de Salud Salvador Allende Gossens Pudahuel Santiago"
+    },
+    {
+      "ID_Organizacion": 4344,
+      "Nombre_Organizacion": "Hospital de Licantén"
+    },
+    {
+      "ID_Organizacion": 4345,
+      "Nombre_Organizacion": "Hospital de Mejillones"
+    },
+    {
+      "ID_Organizacion": 177,
+      "Nombre_Organizacion": "Hospital Metropolitano (Santiago, Providencia)"
+    },
+    {
+      "ID_Organizacion": 132,
+      "Nombre_Organizacion": "Hospital San José (Coronel)"
+    },
+    {
+      "ID_Organizacion": 1125,
+      "Nombre_Organizacion": "Hospital Dr. Humberto Elorza Cortés (Illapel)"
+    },
+    {
+      "ID_Organizacion": 1126,
+      "Nombre_Organizacion": "Hospital de Quellón"
+    },
+    {
+      "ID_Organizacion": 248,
+      "Nombre_Organizacion": "Hospital de Urgencia Asistencia Pública Dr. Alejandro del Río"
+    },
+    {
+      "ID_Organizacion": 209,
+      "Nombre_Organizacion": "Hospital Clínico Universidad de Los Andes"
+    },
+    {
+      "ID_Organizacion": 1218,
+      "Nombre_Organizacion": "Hospital de Santa Cruz"
+    },
+    {
+      "ID_Organizacion": 1240,
+      "Nombre_Organizacion": "Fundación DEBRA Chile"
+    },
+    {
+      "ID_Organizacion": 219,
+      "Nombre_Organizacion": "Clínica Hospital del Profesor"
+    },
+    {
+      "ID_Organizacion": 1141,
+      "Nombre_Organizacion": "Hospital Dr. Ricardo Valenzuela Sáez (Rengo)"
+    }
+  ]
+}
